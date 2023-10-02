@@ -20,7 +20,7 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "extends": "@ignite-ui/ts-config/react.json",
+  "extends": "@alexhiraga-ignite-ui/ts-config/react.json",
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@alexhiraga-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@alexhiraga-ignite-ui/eslint-config": "*",
+    "@alexhiraga-ignite-ui/tokens": "*",
+    "@alexhiraga-ignite-ui/ts-config": "*",
     "@types/react": "^18.2.23",
     "@types/react-dom": "^18.2.8",
     "react": "^18.2.0",
