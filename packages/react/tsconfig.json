@@ -1,15 +1,6 @@
 {
     "compilerOptions": {
-        "jsx": "react"
-    },
-    "compilerOptions": {
-        "jsx": "react"
-    },
-    "compilerOptions": {
-        "jsx": "react"
-    },
-    "compilerOptions": {
-        "jsx": "react"
+        "jsx": "react-jsx"
     },
     "extends": "@alexhiraga-ignite-ui/ts-config/react.json",
     "include": ["src"]
