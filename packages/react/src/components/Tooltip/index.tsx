@@ -1,5 +1,5 @@
-import React, { ComponentProps } from 'react'
-import { ArrowDown, TooltipContainer } from './styles'
+import { ComponentProps } from 'react'
+import { TooltipContainer } from './styles'
 import * as TooltipRadix from '@radix-ui/react-tooltip'
 
 // eslint-disable-next-line @typescript-eslint/no-empty-interface
